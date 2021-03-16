@@ -1,2 +1,2 @@
 # BarGraph
-Github Pages Delopyment of Data Visualizations/Program6
+Bar graph presenting 2020 GDP of selected countries in Trillions of US dollars
